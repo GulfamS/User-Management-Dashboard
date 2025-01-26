@@ -33,5 +33,4 @@ Roboto, Bree-Serif
 For responsivness of this application I used CSS STYLE, CSS Flexbox Properties.
 
 ### Deployment link
-
-
+https://user-management-dashboard-nine-zeta.vercel.app/
