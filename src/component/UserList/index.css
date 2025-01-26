@@ -1,0 +1,47 @@
+.list-heading {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.userlist-container {
+    margin-bottom: 20px;
+    font-family: Roboto;
+}
+
+.delete {
+    background-color: rgb(225, 29, 29);
+    border: none;
+    border-radius: 6px;
+    padding: 5px 10px 5px 10px;
+    color: #ffffff;
+    margin: 6px;
+    cursor: pointer;
+}
+
+.edit {
+    background-color: rgb(95, 74, 251);
+    border: none;
+    border-radius: 6px;
+    padding: 5px 10px 5px 10px;
+    color: #ffffff;
+    margin: 6px;
+    cursor: pointer;
+}
+
+.table{
+    background-color:#F7F8FA;
+    color: black;
+}
+
+.thead {
+    font-weight: bold;
+}
+
+.th{
+    padding: 6px 10px 6px 10px;
+    background-color: #ffffff;
+}
+
+.tbody{
+    text-align: center;
+}
